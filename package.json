@@ -1,0 +1,18 @@
+{
+  "name": "object-cleaner",
+  "version": "0.0.1",
+  "description": "Just removes cleans objects, for logging....",
+  "dependencies": {
+    "lodash": "latest"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests"
+  },
+  "main": "index.js",
+  "author": "Gamefroot",
+  "license": "",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.0"
+  }
+}
